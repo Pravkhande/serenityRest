@@ -1,2 +1,0 @@
-# serenityRest
-Sample API Automation 
