@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting started with REST API testing with Serenity and Cucumber 4
 
 This tutorial show you how to get started with REST-API testing using Serenity and Cucumber 4. 
@@ -267,3 +268,7 @@ For more information about Serenity BDD, you can read the [**Serenity BDD Book**
 * **[Byte-sized Serenity BDD](https://www.youtube.com/channel/UCav6-dPEUiLbnu-rgpy7_bw/featured)** - tips and tricks about Serenity BDD
 * [**Serenity BDD Blog**](https://johnfergusonsmart.com/category/serenity-bdd/) - regular articles about Serenity BDD
 * [**The Serenity BDD Dojo**](https://serenitydojo.teachable.com) - Online training on Serenity BDD and on test automation and BDD in general.
+=======
+# serenityRest
+Sample API Automation 
+>>>>>>> f3c7d30f1ccb137148f2f54ba5260ed31d770fce
